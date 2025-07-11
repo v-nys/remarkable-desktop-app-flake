@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Network>
+    <ProxyType>1</ProxyType>
+    <Ftp>
+        <Host></Host>
+        <Port>0</Port>
+        <Username></Username>
+        <Password></Password>
+    </Ftp>
+    <Http>
+        <Host></Host>
+        <Port>0</Port>
+        <Username></Username>
+        <Password></Password>
+    </Http>
+    <Repositories/>
+    <LocalCachePath>C:/users/vincentn/AppData/Local/cache\qt-installer-framework\a669b869-9a70-35c9-9a1c-08b286c5249f</LocalCachePath>
+</Network>

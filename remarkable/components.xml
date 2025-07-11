@@ -1,0 +1,16 @@
+<Packages>
+    <ApplicationName>reMarkable</ApplicationName>
+    <ApplicationVersion>1.0.0</ApplicationVersion>
+    <Package>
+        <Name>com.remarkable.xochitl</Name>
+        <Title>reMarkable</Title>
+        <Description>Windows application</Description>
+        <SortingPriority>0</SortingPriority>
+        <TreeName moveChildren="false"></TreeName>
+        <Version>3.19.0</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2025-07-10</InstallDate>
+        <Size>176856590</Size>
+        <ForcedInstallation>true</ForcedInstallation>
+    </Package>
+</Packages>

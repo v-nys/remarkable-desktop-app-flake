@@ -1,0 +1,134 @@
+************************************* Invoked: Thu Jul 10 14:22:13 2025
+[0] Arguments: D:\home\vincentn\Downloads\reMarkable-3.19.0.916-win64.exe
+[68] Operations sanity check succeeded.
+[1400] Using metadata cache from "C:/users/vincentn/AppData/Local/cache\\qt-installer-framework\\a669b869-9a70-35c9-9a1c-08b286c5249f"
+[1400] Found 0 cached items.
+[1400] Language: en-US
+[2525] Loaded control script ":/metadata/installer-config/config_js.js"
+[2525] Using control script: ":/metadata/installer-config/config_js.js"
+[6017] Critical: EnableNonClientDpiScaling() failed for HWND 0x3007a (120) (Call not implemented.)
+[9752] Fetching latest update information...
+[9764] Loading component scripts...
+[9769] VALID OS version found: Windows 10, minimum required: Windows 10
+[9859] Set Target Directory
+[9859] VALID OS version found: Windows 10, minimum required: Windows 10
+[9859] (TargetDirectoryPageCallback): Valid OS found, prompt for overwrite
+[13877] Critical: EnableNonClientDpiScaling() failed for HWND 0x10096 (120) (Call not implemented.)
+[73414] Selected components without dependencies:
+com.remarkable.xochitl
+[73415] Installation space required: "185.53 MB" Temporary space required: "0.00 bytes" Local repository size: "0.00 bytes"
+[73490] Cache is on a different volume than the installation directory. Cache volume mount point: "C:\\" Free space available: "226.35 GB" Install volume mount point: "D:\\" Free space available: "226.35 GB"
+[74552] backup  operation: Mkdir
+[74552] 	- arguments: D:/home/vincentn/remarkable
+[74552] Done
+[74553] perform  operation: Mkdir
+[74553] 	- arguments: D:/home/vincentn/remarkable
+[74553] Done
+[74555] Preparing the installation...
+[74555] Install size: 1 components
+[74560] VALID OS version found: Windows 10, minimum required: Windows 10
+[74702] Preparing to unpack components...
+[74719] backup com.remarkable.xochitl concurrent operation: Extract
+[74719] 	- arguments: installer://com.remarkable.xochitl/3.19.0content.7z, D:/home/vincentn/remarkable
+[74719] Started
+[74719] backup com.remarkable.xochitl concurrent operation: Extract
+[74719] 	- arguments: installer://com.remarkable.xochitl/3.19.0generic.7z, D:/home/vincentn/remarkable
+[74720] Started
+[74720] backup com.remarkable.xochitl concurrent operation: Extract
+[74720] 	- arguments: installer://com.remarkable.xochitl/3.19.0iconengines.7z, D:/home/vincentn/remarkable
+[74720] Started
+[74720] backup com.remarkable.xochitl concurrent operation: Extract
+[74720] 	- arguments: installer://com.remarkable.xochitl/3.19.0imageformats.7z, D:/home/vincentn/remarkable
+[74720] Started
+[74720] backup com.remarkable.xochitl concurrent operation: Extract
+[74720] 	- arguments: installer://com.remarkable.xochitl/3.19.0networkinformation.7z, D:/home/vincentn/remarkable
+[74720] Started
+[74720] backup com.remarkable.xochitl concurrent operation: Extract
+[74720] 	- arguments: installer://com.remarkable.xochitl/3.19.0platforms.7z, D:/home/vincentn/remarkable
+[74720] Started
+[74720] backup com.remarkable.xochitl concurrent operation: Extract
+[74720] 	- arguments: installer://com.remarkable.xochitl/3.19.0qml.7z, D:/home/vincentn/remarkable
+[74720] Started
+[74720] backup com.remarkable.xochitl concurrent operation: Extract
+[74720] 	- arguments: installer://com.remarkable.xochitl/3.19.0qmltooling.7z, D:/home/vincentn/remarkable
+[74720] Started
+[74720] backup com.remarkable.xochitl concurrent operation: Extract
+[74721] 	- arguments: installer://com.remarkable.xochitl/3.19.0styles.7z, D:/home/vincentn/remarkable
+[74721] Started
+[74723] backup com.remarkable.xochitl concurrent operation: Extract
+[74723] 	- arguments: installer://com.remarkable.xochitl/3.19.0tls.7z, D:/home/vincentn/remarkable
+[74723] Started
+[74723] backup com.remarkable.xochitl concurrent operation: Extract
+[74723] 	- arguments: installer://com.remarkable.xochitl/3.19.0translations.7z, D:/home/vincentn/remarkable
+[74723] Started
+[74807] Unpacking components...
+[74813] perform com.remarkable.xochitl concurrent operation: Extract
+[74813] 	- arguments: installer://com.remarkable.xochitl/3.19.0content.7z, D:/home/vincentn/remarkable
+[74813] Started
+[74815] perform com.remarkable.xochitl concurrent operation: Extract
+[74815] 	- arguments: installer://com.remarkable.xochitl/3.19.0qml.7z, D:/home/vincentn/remarkable
+[74815] Started
+[74815] perform com.remarkable.xochitl concurrent operation: Extract
+[74815] 	- arguments: installer://com.remarkable.xochitl/3.19.0translations.7z, D:/home/vincentn/remarkable
+[74815] Started
+[74816] perform com.remarkable.xochitl concurrent operation: Extract
+[74816] 	- arguments: installer://com.remarkable.xochitl/3.19.0platforms.7z, D:/home/vincentn/remarkable
+[74816] Started
+[74816] perform com.remarkable.xochitl concurrent operation: Extract
+[74817] 	- arguments: installer://com.remarkable.xochitl/3.19.0qmltooling.7z, D:/home/vincentn/remarkable
+[74817] Started
+[74819] perform com.remarkable.xochitl concurrent operation: Extract
+[74819] 	- arguments: installer://com.remarkable.xochitl/3.19.0imageformats.7z, D:/home/vincentn/remarkable
+[74820] Started
+[74821] perform com.remarkable.xochitl concurrent operation: Extract
+[74821] 	- arguments: installer://com.remarkable.xochitl/3.19.0tls.7z, D:/home/vincentn/remarkable
+[74821] Started
+[74821] perform com.remarkable.xochitl concurrent operation: Extract
+[74821] 	- arguments: installer://com.remarkable.xochitl/3.19.0styles.7z, D:/home/vincentn/remarkable
+[74821] Started
+[74821] perform com.remarkable.xochitl concurrent operation: Extract
+[74821] 	- arguments: installer://com.remarkable.xochitl/3.19.0generic.7z, D:/home/vincentn/remarkable
+[74821] Started
+[74821] perform com.remarkable.xochitl concurrent operation: Extract
+[74821] 	- arguments: installer://com.remarkable.xochitl/3.19.0networkinformation.7z, D:/home/vincentn/remarkable
+[74821] Started
+[74822] perform com.remarkable.xochitl concurrent operation: Extract
+[74822] 	- arguments: installer://com.remarkable.xochitl/3.19.0iconengines.7z, D:/home/vincentn/remarkable
+[74822] Started
+[79133] Installing component reMarkable
+[79135] backup com.remarkable.xochitl operation: CreateShortcut
+[79135] 	- arguments: D:/home/vincentn/remarkable/reMarkable.exe, C:\users\vincentn\AppData\Roaming\Microsoft\Windows\Start Menu\Programs/reMarkable/reMarkable.lnk, workingDirectory=D:/home/vincentn/remarkable, iconPath=D:/home/vincentn/remarkable/reMarkable.ico
+[79135] Done
+[79137] perform com.remarkable.xochitl operation: CreateShortcut
+[79137] 	- arguments: D:/home/vincentn/remarkable/reMarkable.exe, C:\users\vincentn\AppData\Roaming\Microsoft\Windows\Start Menu\Programs/reMarkable/reMarkable.lnk
+[79237] Done
+[79238] backup com.remarkable.xochitl operation: CreateShortcut
+[79238] 	- arguments: D:/home/vincentn/remarkable/reMarkable.exe, C:/users/vincentn/AppData/Roaming/Microsoft/Windows/SendTo/reMarkable.lnk, workingDirectory=D:/home/vincentn/remarkable, iconPath=D:/home/vincentn/remarkable/reMarkable.ico
+[79238] Done
+[79238] perform com.remarkable.xochitl operation: CreateShortcut
+[79238] 	- arguments: D:/home/vincentn/remarkable/reMarkable.exe, C:/users/vincentn/AppData/Roaming/Microsoft/Windows/SendTo/reMarkable.lnk
+[79349] Done
+[79350] backup com.remarkable.xochitl operation: Execute
+[79355] 	- arguments: {0,3010,1638,5100}, D:/home/vincentn/remarkable/vc_redist.x64.exe, /quiet, /norestart
+[79355] Done
+[79356] perform com.remarkable.xochitl operation: Execute
+[79360] 	- arguments: {0,3010,1638,5100}, D:/home/vincentn/remarkable/vc_redist.x64.exe, /quiet, /norestart
+[79401] D:/home/vincentn/remarkable/vc_redist.x64.exe" started, arguments: "/quiet /norestart
+[81650] Done
+[81651] backup com.remarkable.xochitl operation: Delete
+[81651] 	- arguments: D:/home/vincentn/remarkable/vc_redist.x64.exe
+[81677] Done
+[81677] perform com.remarkable.xochitl operation: Delete
+[81677] 	- arguments: D:/home/vincentn/remarkable/vc_redist.x64.exe
+[81694] Done
+[81697] backup com.remarkable.xochitl operation: License
+[81697] 	- arguments:
+[81697] Done
+[81698] perform com.remarkable.xochitl operation: License
+[81698] 	- arguments:
+[81704] Done
+[81731] Writing maintenance tool: "D:/home/vincentn/remarkable/maintenancetool.exe.new"
+[81732] Writing maintenance tool.
+[82271] Wrote permissions for maintenance tool.
+[82510] Maintenance tool hard restart: false.
+[82518] Installation finished!

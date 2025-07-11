@@ -1,0 +1,61 @@
+<h2>reMarkable End User License Agreement</h2>
+<p>Effective date: March 6, 2024</p>
+<h2>1. GENERAL</h2>
+<p>This End User License Agreement (the “EULA”) is between reMarkable AS (“reMarkable”) and you as a user. reMarkable has (i) certain software (including embedded fonts and typeface) embedded in the reMarkable tablet (the “reMarkable Tablet Software”) and (ii) the reMarkable mobile and desktop apps that can be downloaded and used in connection with the reMarkable tablet (the “reMarkable Apps”). The reMarkable Tablet Software and the reMarkable Apps are together referred to as the “Software”.</p>
+<p>This EULA governs your access to and use of the Software, which you have downloaded and installed, or otherwise gained access to.
+<p>Please note that the following are subject to separate terms and conditions, available at www.remarkable.com/legal:
+<br></br>
+<p>  - The purchase of reMarkable hardware and accessories</p>
+<p>  - The creation and use of a reMarkable account</p>
+<h2>2. ACCESS AND YOUR USE OF THE SOFTWARE</h2>
+<h3>2.1 Access to the Software</h3>
+<p>The reMarkable Tablet Software is embedded in the reMarkable tablet and accessed via such tablet.</p>
+<p>The reMarkable Apps can be downloaded from my.remarkable.com (the “Site”) and/or certain app stores, and accessed via the device to which it is downloaded and installed. The reMarkable Apps are only compatible with certain operating systems. You can find more information about this at the Site.</p>
+<h3>2.2 License grant</h3>
+<p>Subject to the terms and conditions of this EULA, reMarkable hereby grants you a limited, revocable, non-exclusive right, to download, install and use:</p>
+<p>(i)  the reMarkable Tablet Software on your reMarkable tablet device, and</p>
+<p>(ii) the reMarkable Apps on your personal devices, such as PC, mac, tablet and/or phone (as applicable).</p>
+<h3>2.3 Restrictions on use</h3>
+<p>You as a user shall not and shall not allow any third party to, except as and to the extent permitted by licensing terms governing the use of open-sourced components included in the Software or permitted by applicable mandatory law:</p>
+<p>(i)    use the Software except as expressly permitted under this EULA;</p>
+<p>(ii)   copy, decompile, disassemble, reverse engineer, attempt to derive the source code of, decrypt, modify or create derivative works of the Software, or any part thereof;</p>
+<p>(iii)  sublicense, transfer, sell or otherwise assign your account at the Software or the Software itself to any third party;</p>
+<p>(iv)   alter, embed into any other product or otherwise create derivative works of, or otherwise modify the Software;</p>
+<p>(v)    remove, alter or obscure any proprietary notices on or in the Software;</p>
+<p>(vi)   interfere with or disrupt the integrity of the Software or data included therein;</p>
+<p>(vii)  attempt to gain unauthorized access; or</p>
+<p>(viii) interfere with other users' use of the Software.</p>
+<p>If you use the Software in breach of this EULA, reMarkable shall have the right to remove your access to the Software and terminate this EULA with immediate effect.</p>
+<h3>2.4 Third party software</h3>
+<p>The Software may be bundled with or otherwise contain certain third-party software subject to such third parties’ terms and conditions. You shall comply with relevant third-party terms and conditions. reMarkable is under no circumstances liable for any non-compliance with such third-party terms and conditions by you.</p>
+<p>The terms and conditions for the use of reMarkable Integrations can be found at support.remarkable.com/s/article/Terms-Conditions-Integrations. More information about other applicable third-party terms and conditions is provided to you by reMarkable upon request.</p>
+<h2>3. VERSIONS AND UPDATES</h2>
+<p>reMarkable may, at its sole discretion, further develop, and release new versions of and updates to, the Software. Updates and releases may result in changed appearance and/or functionality of the Software. Updates may also be mandatory for continued access to Software.</p>
+<p>You shall always use the latest version of the Software which is made available to you by reMarkable. reMarkable is under no circumstances liable for your use of an old version of the Software and reserves the right to stop supporting any such old version.</p>
+<p>To maintain functionality, installing updates for Software may be necessary. By accepting this EULA, you agree that reMarkable may check for new Software versions, and offer download of Software updates onto your device.</p>
+<h2>4. OWNERSHIP</h2>
+<p>reMarkable and its licensors shall retain all right, title, interest and intellectual property rights related to the Software, which is protected by e.g. copyright laws. Unless otherwise explicitly stated herein, nothing in this EULA shall be construed as a transfer, in whole or in part, of reMarkable’s intellectual property rights.</p>
+<p>You shall under no circumstances use reMarkable’s name, logo, trademark or similar without reMarkable’s expressed consent.</p>
+<h2>5. DISCLAIMER OF WARRANTIES</h2>
+<p>YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT USE OF THE SOFTWARE IS AT YOUR OWN RISK AND THAT THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY WARRANTIES OR CONDITIONS WHATSOEVER. REMARKABLE OR ITS LICENSORS DO NOT WARRANT THAT THE FUNCTIONS OF THE SOFTWARE WILL MEET YOUR REQUIREMENTS OR THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR FREE. YOU ASSUME RESPONSIBILITY FOR SELECTING THE SOFTWARE TO ACHIEVE YOUR INTENDED RESULTS, AND FOR THE USE AND THE RESULTS OBTAINED FROM THE SOFTWARE.</p>
+<p>EXCEPT TO THE EXTENT PROHIBITED BY MANDATORY LAW, REMARKABLE AND ITS LICENSORS DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES RELATED TO NON-INFRINGEMENT, LACK OF VIRUSES, ACCURACY OR COMPLETENESS OF RESPONSES OR RESULTS, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.</p>
+<h2>6. LIMITATIONS OF LIABILITY</h2>
+<p>IN NO EVENT SHALL REMARKABLE OR ITS LICENSORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES OR FOR ANY DAMAGES WHATSOEVER (INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, PERSONAL INJURY, LOSS OF PRIVACY OR OTHER PECUNIARY OR OTHER LOSS WHATSOEVER) ARISING OUT OF USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</p>
+<p>REGARDLESS OF THE FORM OF ACTION, REMARKABLE’S AND ITS LICENSORS’ AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THIS EULA SHALL NOT EXCEED USD 1,000 PER INSTANCE. THE FOREGOING LIMITATIONS, EXCLUSIONS AND DISCLAIMERS SHALL APPLY TO THE MAXIMUM EXTENT ALLOWED BY APPLICABLE LAW.</p>
+<h2>7. TERM AND TERMINATION</h2>
+<p>This EULA will commence and be binding upon your download, installment or use of the Software and shall remain in force for as long as you have access to and use the Software, or until terminated by reMarkable.</p>
+<p>reMarkable may at any time terminate this EULA with thirty (30) days’ prior notice. In the event of a breach of any terms of this EULA by you, reMarkable may terminate this EULA, including any license granted to you herein, with immediate effect.</p>
+<h2>8. AMENDMENTS</h2>
+<p>reMarkable may, at any time, amend or modify the provisions of this EULA. reMarkable will notify you about any material changes to this EULA.</p>
+<p>Continued use of the Software after a revised version of this EULA is posted on the website mentioned below will be conditional upon the version of the EULA that is in effect at the time of the use.</p>
+<p>The latest version of the EULA is available at support.remarkable.com/s/article/reMarkable-End-User-License-Agreement.</p>
+<h2>9. GOVERNING LAW AND LEGAL VENUE</h2>
+<p>This EULA shall be governed by and construed in accordance with the laws of Norway.</p>
+<p>Any and all disputes arising out of the rights and obligations in this EULA shall be submitted to ordinary court proceedings. You accept the Oslo City Court as the exclusive legal venue under this EULA, unless another legal venue is provided under mandatory law.</p>
+<h2>10. CONTACT INFORMATION</h2>
+<br>reMarkable AS</br>
+<br>Fridtjof Nansens vei 12</br>
+<br>0369 Oslo</br>
+<br>Norge</br>
+<br></br>
+<br>https://support.remarkable.com/s/contactsupport</br>
