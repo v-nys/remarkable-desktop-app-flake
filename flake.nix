@@ -15,6 +15,7 @@
           echo "First launch: copying Wine prefix to $WINEPREFIX..."
           mkdir -p "$(dirname "$WINEPREFIX")"
           cp -r "$PREFIX_TEMPLATE" "$WINEPREFIX"
+          chmod -R +rw "$WINEPREFIX"
         fi
 
         export WINEPREFIX
